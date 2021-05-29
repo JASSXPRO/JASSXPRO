@@ -3,13 +3,13 @@
 #  OFFICIAL B-LAC JASS
 ##
 
-### About 
+###  ＡＢＯＵＴ
 
-```python
-𝐍𝐀𝐌𝐄 = JASS 💖
-𝐈 𝐀𝐌 = 𝐇𝐔𝐌𝐀𝐍 😂
-𝐀𝐆𝐄 = 16 😈
-𝐒𝐓𝐀𝐓𝐄 = "𝐏𝐔𝐍𝐉𝐀𝐁"
+```ＰＹＴＨＯＮ"
+𝐍𝐀𝐌𝐄 = "ＪＡＳＳ 💖"
+𝐈 𝐀𝐌 = "ＨＵＭＡＮ 😂
+𝐀𝐆𝐄 = "16 😈"
+𝐒𝐓𝐀𝐓𝐄 = "ＰＵＮＪＡＢ"
 ```
 #### 
 [![telegram badge](https://img.shields.io/badge/CONTACT-ME-30302f?style=for-the-badge&logo=telegram)](https://t.me/JATTGAMINGYT11)
